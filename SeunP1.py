@@ -1,6 +1,5 @@
 #SeunP1.py
-#Programmer: A. Seun Ajayi
-#Email: aajayi@cnm.edu
+#Programmer: Seun Ajayi
 #Purpose: provides user capability to calculate the surface area and volume of a square pyramid.
 
 import math
