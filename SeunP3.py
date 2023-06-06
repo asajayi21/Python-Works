@@ -1,6 +1,5 @@
 #SeunP3.py
-#Programmer: A. Seun Ajayi
-#Email: aajayi@cnm.edu
+#Programmer: Seun Ajayi
 #Purpose: provides user capability to find fruit in a string
 
 #Define variables
