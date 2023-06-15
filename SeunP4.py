@@ -1,5 +1,5 @@
 #SeunP4.py
-#Programmer: A. Seun Ajayi
+#Programmer: Seun Ajayi
 #Email: aajayi@cnm.edu
 #Purpose: provides user capability to translate a phrase from Spanish to English
 
