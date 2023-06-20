@@ -1,6 +1,5 @@
 #SeunP5.py
-#Programmer: A. Seun Ajayi
-#Email: aajayi@cnm.edu
+#Programmer: Seun Ajayi
 #Purpose: To play the game rock, paper, scissors
 
 import random
