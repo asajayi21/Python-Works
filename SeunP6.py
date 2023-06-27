@@ -1,6 +1,5 @@
 #SeunP6.py
 #Programmer: A. Seun Ajayi
-#Email: aajayi@cnm.edu
 #Purpose: A program that calculates the distance between two geographic points
 
 import math
